@@ -31,6 +31,10 @@ Para este proyecto se utilizó:
   -  **uvicorn app.main:app --reload**
 - Nos dirigimos a la dirección que nos indica y **está listo**.
 
+# Proyecto en GitHub
+- El proyecto en Github esta en el siguiente enlace:
+  - https://github.com/Creixz/ColoresAPI
+
 # Poblar la base de datos
 - Corremos nuestro servidor virtual **WampServer**
 - Entramos a **localhost** en el navegador
