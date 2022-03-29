@@ -2,7 +2,7 @@
 Esta aplicación construida con Python permite realizar un CRUD completo de colores y usuarios, además toda la información se guarda en una base de datos. Por otro lado, cuentan con validaciones y una documentación en Swagger.
 
 ![](https://fv9-4.failiem.lv/thumb_show.php?i=3djtscddm&view)
-#Tecnologías y Frameworks utilizados
+# Tecnologías y Frameworks utilizados
 Para este proyecto se utilizó:
 - Lenguaje de programación: **Python**
 - Framework de Python: **FastAPI**
@@ -11,7 +11,7 @@ Para este proyecto se utilizó:
 - Editor de código: **VSCode**
 - Servidor virtual: **WAMP**
 
-#Instalación de dependencias y despliegue del proyecto
+# Instalación de dependencias y despliegue del proyecto
 - Importamos nuestra base de datos a **MySQL**
 - Nos aseguramos de tener instalado **Cmder**, **Python** y **VSCode**
 - Abrimos **Cmder** y por medio del comando **cd** a la carpeta donde está el proyecto
@@ -31,7 +31,7 @@ Para este proyecto se utilizó:
   -  **uvicorn app.main:app --reload**
 - Nos dirigimos a la dirección que nos indica y **está listo**.
 
-#Poblar la base de datos
+# Poblar la base de datos
 - Corremos nuestro servidor virtual **WampServer**
 - Entramos a **localhost** en el navegador
 - En Tools le damos click a **phpmyadmin**
